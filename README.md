@@ -1,4 +1,4 @@
-![logo]()
+![logo]("https://github.com/Zyntoxis/Zyntoxis/blob/main/GitHub_Banner%20(2).png")
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">A passionate Software developer from Germany</h3>
 
