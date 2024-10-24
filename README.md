@@ -1,4 +1,6 @@
-![logo](https://github.com/Zyntoxis/Zyntoxis/blob/main/GitHub_Banner%20(2).png)
+<div style="text-align: center"/;>
+<img src="https://github.com/Zyntoxis/Zyntoxis/blob/main/GitHub_Banner%20(2).png" alt="profile-banner" width="400"/>
+</div>
 
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">A passionate Software Developer from Germany</h3>
